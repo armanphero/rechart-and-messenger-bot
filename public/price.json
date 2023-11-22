@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "membership": "Basic",
+        "price": 29.99,
+        "details": "Access to gym facilities",
+        "duration": "Monthly",
+        "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3ltfGVufDB8fDB8fHww"
+    },
+    {
+        "id": 2,
+        "membership": "Premium",
+        "price": 49.99,
+        "details": "Access to gym facilities + Classes",
+        "duration": "Monthly",
+        "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGd5bXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": 3,
+        "membership": "Gold",
+        "price": 399.99,
+        "details": "Full access + Personal Trainer sessions",
+        "duration": "Yearly",
+        "image": "https://images.unsplash.com/photo-1561214078-f3247647fc5e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGd5bXxlbnwwfHwwfHx8MA%3D%3D"
+    }
+]

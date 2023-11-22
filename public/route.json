@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Home",
+        "path": "/"
+    },
+    {
+        "id": 2,
+        "name": "Travel",
+        "path": "/travel"
+    },
+    {
+        "id": 3,
+        "name": "Tech",
+        "path": "/tech"
+    },
+    {
+        "id": 4,
+        "name": "Food",
+        "path": "/food"
+    },
+    {
+        "id": 5,
+        "name": "Fitness",
+        "path": "/fitness"
+    },
+    {
+        "id": 6,
+        "name": "Books",
+        "path": "/books"
+    }
+]
+  
