@@ -21,7 +21,7 @@ function App() {
           prices.map(price => <PriceCard key={price.id} price={price}></PriceCard>)
         }
       </div>
-      <h1 className='text-purple-500 text-4xl font-bold'>hello , tailwind</h1>
+      <h1 className='text-purple-500 text-4xl font-bold'>hello , tailwind, how are you</h1>
       <MessengerCustomerChat
         pageId="61551575173649"
         appId="341427618476980"
